@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.09eda2b2.css",
-    "main.js": "/static/js/main.6642a78e.js",
+    "main.js": "/static/js/main.20b60f8d.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/ticketTransfer.png": "/static/media/ticketTransfer.65edf4b702e3f6ba3e76.png",
     "static/media/ticket.png": "/static/media/ticket.0335be5631d57ae5bc5c.png",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.09eda2b2.css.map": "/static/css/main.09eda2b2.css.map",
-    "main.6642a78e.js.map": "/static/js/main.6642a78e.js.map",
+    "main.20b60f8d.js.map": "/static/js/main.20b60f8d.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09eda2b2.css",
-    "static/js/main.6642a78e.js"
+    "static/js/main.20b60f8d.js"
   ]
 }
