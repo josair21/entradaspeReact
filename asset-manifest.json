@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.11cdea9c.css",
-    "main.js": "/static/js/main.c976bf32.js",
+    "main.js": "/static/js/main.f95e5825.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/terminosycondiciones.png": "/static/media/terminosycondiciones.5022ddd16480941f2768.png",
     "static/media/preguntasfrecuentes.png": "/static/media/preguntasfrecuentes.9004c7ed659d742cfff2.png",
@@ -9,6 +9,8 @@
     "static/media/ticketTransfer.png": "/static/media/ticketTransfer.65edf4b702e3f6ba3e76.png",
     "static/media/maps-preview.png": "/static/media/maps-preview.33e9f058638fb4f3b2f5.png",
     "static/media/ticket.png": "/static/media/ticket.0335be5631d57ae5bc5c.png",
+    "static/media/evento_noiniciado.png": "/static/media/evento_noiniciado.8a24368911727e00eca3.png",
+    "static/media/evento_finalizado.png": "/static/media/evento_finalizado.dce7b4def2d2b34ad872.png",
     "static/media/loading.gif": "/static/media/loading.b310cb9d61736e4e0ba5.gif",
     "static/media/ticketFinal.png": "/static/media/ticketFinal.0731b2f2930c7e8774f4.png",
     "static/media/yape.png": "/static/media/yape.b2a1f8a94c9198185f76.png",
@@ -23,11 +25,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.11cdea9c.css.map": "/static/css/main.11cdea9c.css.map",
-    "main.c976bf32.js.map": "/static/js/main.c976bf32.js.map",
+    "main.f95e5825.js.map": "/static/js/main.f95e5825.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11cdea9c.css",
-    "static/js/main.c976bf32.js"
+    "static/js/main.f95e5825.js"
   ]
 }
